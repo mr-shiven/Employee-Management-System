@@ -253,7 +253,7 @@ int login(){ //login procedure
       cout << '*';
       ch = _getch();
    }
-   if(pass == "ssss" && name== "Niet"){
+   if(pass == "1234" && name== "user"){
    	cout<<"\n\n\n\t\t\t\t\tLOADING \n\t\t\t\t\t";
    	for(int a=1;a<8;a++) // Change 'a<?' to how many * you want
 	{
