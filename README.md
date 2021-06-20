@@ -3,3 +3,5 @@ This Project has been developed in C++ language. It is simple to understand and 
 
 All the data will be stored in data.txt file.
 You can change the data storage by modifying the code.
+The username is 'username' and password is 1234.
+ 
